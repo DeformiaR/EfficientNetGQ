@@ -1,0 +1,2 @@
+Change Shuffle =True in Val and Test set
+HyperParameter Tuning
